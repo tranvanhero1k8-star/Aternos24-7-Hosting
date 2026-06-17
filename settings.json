@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "authmeattack",
+    "username": "Uservip",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "misty.pikamc.vn",
-    "port": 25139,
-    "version": "1.21.1",
+    "ip": "theo.hidencloud.com",
+    "port": 25558,
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
