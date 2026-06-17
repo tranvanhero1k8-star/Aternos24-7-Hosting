@@ -8,7 +8,7 @@
   "server": {
     "ip": "theo.hidencloud.com",
     "port": 25558,
-    "version": "26.1.2",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
